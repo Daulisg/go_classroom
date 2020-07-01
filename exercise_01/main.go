@@ -10,7 +10,7 @@ func main() {
 	Y := "Sames Bond"
 	Z := true
 
-	// Single print statement to print all valu
+	// Single print statement to print all values
 	fmt.Printf("X = %v Y = %v and Z = %v\n", X, Y, Z)
 
 	// Printing the type and value with separate print statements
