@@ -7,7 +7,7 @@ import (
 func main() {
 	// Shorthand variable assignment
 	X := 42
-	Y := "Sames Bond"
+	Y := "James Bond"
 	Z := true
 
 	// Single print statement to print all values
